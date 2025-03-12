@@ -1,2 +1,2 @@
-# Exerc-cio-AsciiArt
+# Exercicio AsciiArt
 Exiba uma asciiArt abaixo.
